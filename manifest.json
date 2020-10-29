@@ -3,12 +3,12 @@
     "name": "KnowProphet",
     "icons": [
       {
-        "src": "/images/ISHQMAINPNG.png",
+        "src": "/images/pwa.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/ISHQMAINPNG.png",
+        "src": "/images/pwa2.jpg",
         "type": "image/png",
         "sizes": "512x512"
       }
